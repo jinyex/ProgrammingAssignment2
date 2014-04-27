@@ -1,6 +1,3 @@
-## Put comments here that give an overall description of what your
-## functions do
-##
 ## The functions makeCacheMatrix and cacheSolve will cache the inverse of
 ## the matrix automatically and return the cached data when needed.
 
